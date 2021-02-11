@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3>Hi there 👋 <br> I am Vanshika Pandey</h3>
+<h4>Hi there 👋  I am Vanshika Pandey</h4>
 <ul>
 <li> 🔭 I’m currently working as <strong>Front End Developer</strong> @ <a href="https://iiitiansnetwork.com/">IIITians Network </a> and as a <strong>Campus Ambassodor</strong> @ <a href="https://gssoc.girlscript.tech/">GSSOC</a><br></li>
 <li> 🌱 I’m currently learning <strong>DSA and Machine Learning </strong><br></li>
 <li> 💬 Ask me about <strong>Front End Web Development C, C++, Python</strong><br></li>
+<li> 👯 I would be glad to collaborate on Web Development Projects</li>
 <li> 📫 How to reach me: <a href="https://www.linkedin.com/in/vanshika-pandey-a590011a9">Vanshika Pandey</a><br></li>
 </ul>
 &nbsp;&nbsp;
