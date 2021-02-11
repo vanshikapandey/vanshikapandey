@@ -1,4 +1,4 @@
-
+### Hi there 👋 
 
 <!--
 **vanshikapandey/vanshikapandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Hi there 👋 <br> I am Vanshika Pandey</h1>
-- 🔭 I’m currently working as <strong>Front End Developer</strong> @ <a href="https://iiitiansnetwork.com/">IIITians Network </a> and as a <strong>Campus Ambassodor</strong> @ <a href="https://gssoc.girlscript.tech/">GSSOC</a><br>
-- 🌱 I’m currently learning <strong>DSA and Machine Learning </strong><br>
-- 💬 Ask me about <strong>Front End Web Development C, C++, Python</strong><br>
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/vanshika-pandey-a590011a9">Vanshika Pandey</a><br>
-
-&nbsp&nbsp
+<br><br>
+<h3>Hi there 👋 <br> I am Vanshika Pandey</h3><br><br>
+<ul>
+<li> 🔭 I’m currently working as <strong>Front End Developer</strong> @ <a href="https://iiitiansnetwork.com/">IIITians Network </a> and as a <strong>Campus Ambassodor</strong> @ <a href="https://gssoc.girlscript.tech/">GSSOC</a><br></li>
+<li> 🌱 I’m currently learning <strong>DSA and Machine Learning </strong><br></li>
+<li> 💬 Ask me about <strong>Front End Web Development C, C++, Python</strong><br></li>
+<li> 📫 How to reach me: <a href="https://www.linkedin.com/in/vanshika-pandey-a590011a9">Vanshika Pandey</a><br></li>
+</ul>
+&nbsp;&nbsp;
