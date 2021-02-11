@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br><br>
-<h3>Hi there 👋 <br> I am Vanshika Pandey</h3><br><br>
+
+<h3>Hi there 👋 <br> I am Vanshika Pandey</h3>
 <ul>
 <li> 🔭 I’m currently working as <strong>Front End Developer</strong> @ <a href="https://iiitiansnetwork.com/">IIITians Network </a> and as a <strong>Campus Ambassodor</strong> @ <a href="https://gssoc.girlscript.tech/">GSSOC</a><br></li>
 <li> 🌱 I’m currently learning <strong>DSA and Machine Learning </strong><br></li>
