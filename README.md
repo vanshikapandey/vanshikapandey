@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi there 👋 I am Vanshika Pandey</h1>
+- 🔭 I’m currently working as <strong>Front End Developer</strong> @ <a href="https://iiitiansnetwork.com/">IIITians Network </a> and as a <strong>Campus Ambassodor</strong> @ <a href="https://gssoc.girlscript.tech/">GSSOC</a>
+- 🌱 I’m currently learning <strong>DSA and Machine Learning </strong>
+- 💬 Ask me about Front End Web Development C, C++, Python
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/vanshika-pandey-a590011a9">Vanshika Pandey</a>
+
+&nbsp&nbsp
