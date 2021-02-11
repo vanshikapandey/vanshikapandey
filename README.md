@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>Hi there 👋 <br> I am Vanshika Pandey</h1>
-- 🔭 I’m currently working as <strong>Front End Developer</strong> @ <a href="https://iiitiansnetwork.com/">IIITians Network </a> and as a <strong>Campus Ambassodor</strong> @ <a href="https://gssoc.girlscript.tech/">GSSOC</a>
-- 🌱 I’m currently learning <strong>DSA and Machine Learning </strong>
-- 💬 Ask me about Front End Web Development C, C++, Python
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/vanshika-pandey-a590011a9">Vanshika Pandey</a>
+- 🔭 I’m currently working as <strong>Front End Developer</strong> @ <a href="https://iiitiansnetwork.com/">IIITians Network </a> and as a <strong>Campus Ambassodor</strong> @ <a href="https://gssoc.girlscript.tech/">GSSOC</a><br>
+- 🌱 I’m currently learning <strong>DSA and Machine Learning </strong><br>
+- 💬 Ask me about <strong>Front End Web Development C, C++, Python</strong><br>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/vanshika-pandey-a590011a9">Vanshika Pandey</a><br>
 
 &nbsp&nbsp
