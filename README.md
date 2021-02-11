@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **vanshikapandey/vanshikapandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi there 👋 I am Vanshika Pandey</h1>
+<h1>Hi there 👋 <br> I am Vanshika Pandey</h1>
 - 🔭 I’m currently working as <strong>Front End Developer</strong> @ <a href="https://iiitiansnetwork.com/">IIITians Network </a> and as a <strong>Campus Ambassodor</strong> @ <a href="https://gssoc.girlscript.tech/">GSSOC</a>
 - 🌱 I’m currently learning <strong>DSA and Machine Learning </strong>
 - 💬 Ask me about Front End Web Development C, C++, Python
