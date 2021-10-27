@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **pvanshika217@gmail.com**
 
-- 📄 Know about my experiences [Vanshika_Pandey_resume](https://drive.google.com/file/d/1707BnxCm6GRygeeyNIT3XMrNpAf7s8db/view?usp=sharing)
+- 📄 Know about my experiences [Vanshika_Pandey_resume](https://drive.google.com/file/d/1EZ06VeEtA4sgOQNv9dYJJ6FnqPrtchwa/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
